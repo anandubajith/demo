@@ -3,10 +3,10 @@
   <channel>
     <title>block-Log</title>
     <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor</description>
-    <link>http://yourdomain.com/block-log//</link>
-    <atom:link href="http://yourdomain.com/block-log//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Jul 2015 17:39:33 +0530</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2015 17:39:33 +0530</lastBuildDate>
+    <link>http://yourdomain.com/demo/block-log//</link>
+    <atom:link href="http://yourdomain.com/demo/block-log//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 17 Jul 2015 17:41:23 +0530</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2015 17:41:23 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Jul 2015 18:06:09 +0530</pubDate>
-        <link>http://yourdomain.com/block-log//2015/lorem-ipsum</link>
-        <guid isPermaLink="true">http://yourdomain.com/block-log//2015/lorem-ipsum</guid>
+        <link>http://yourdomain.com/demo/block-log//2015/lorem-ipsum</link>
+        <guid isPermaLink="true">http://yourdomain.com/demo/block-log//2015/lorem-ipsum</guid>
         
         
         <category>jekyll</category>
@@ -151,8 +151,8 @@ CSSland,
 &lt;p&gt;...so there you have it, all our text elements&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 May 2015 00:14:35 +0530</pubDate>
-        <link>http://yourdomain.com/block-log//2015/more-random-text</link>
-        <guid isPermaLink="true">http://yourdomain.com/block-log//2015/more-random-text</guid>
+        <link>http://yourdomain.com/demo/block-log//2015/more-random-text</link>
+        <guid isPermaLink="true">http://yourdomain.com/demo/block-log//2015/more-random-text</guid>
         
         
         <category>random</category>
@@ -178,8 +178,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Fri, 16 May 2014 00:14:35 +0530</pubDate>
-        <link>http://yourdomain.com/block-log//2014/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://yourdomain.com/block-log//2014/welcome-to-jekyll</guid>
+        <link>http://yourdomain.com/demo/block-log//2014/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://yourdomain.com/demo/block-log//2014/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>
@@ -230,8 +230,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 	&lt;/div&gt;
 </description>
         <pubDate>Fri, 02 May 2014 02:16:47 +0530</pubDate>
-        <link>http://yourdomain.com/block-log//2014/html</link>
-        <guid isPermaLink="true">http://yourdomain.com/block-log//2014/html</guid>
+        <link>http://yourdomain.com/demo/block-log//2014/html</link>
+        <guid isPermaLink="true">http://yourdomain.com/demo/block-log//2014/html</guid>
         
         
         <category>jekyll</category>
@@ -384,8 +384,8 @@ nunc. Morbi imperdiet augue
 	&lt;/div&gt;
 </description>
         <pubDate>Fri, 02 May 2014 02:16:47 +0530</pubDate>
-        <link>http://yourdomain.com/block-log//2014/elements</link>
-        <guid isPermaLink="true">http://yourdomain.com/block-log//2014/elements</guid>
+        <link>http://yourdomain.com/demo/block-log//2014/elements</link>
+        <guid isPermaLink="true">http://yourdomain.com/demo/block-log//2014/elements</guid>
         
         
         <category>jekyll</category>
